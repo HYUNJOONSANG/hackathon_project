@@ -1,0 +1,39 @@
+name,EPC_rating,floor_area,heating_source
+25 Gordon Street,C,5174.0,Heat Network
+26 Bedford Way,B,8218.0,Heat Network But Not Ours
+90 Tottenham Court Road,F,1534.0,Gas
+Archaeology and Anthropology,C,8340.0,Heat Network
+Belnor House,C,5390.0,Gas
+Bentham House,B,3221.0,Gas
+Campbell House East,B,3554.0,Gas
+Central House,D,5664.0,Electricity
+Chandler House,C,4047.0,Gas
+Christopher Ingold Building,G,13049.0,Heat Network
+Cruciform Building,G,16455.0,Heat Network And Steam
+Darwin Building,D,10512.0,Heat Network
+DMS Watson Building,D,5530.0,Heat Network
+Egyptology,G,1565.0,Heat Network
+Frances Gardner House,C,5597.0,Gas
+Goldsmid House (Wilton Plaza),C,4364.0,Gas
+Henry Morley,D,534.0,Heat Network
+ICH - Main Building,G,13187.0,Gas
+ICH -Wellcome Trust Building,D,2833.0,Gas
+ICN - Alexandra House,C,2420.0,Gas
+Ifor Evans Hall,E,6555.0,Gas
+ION - 1 Wakefield St,G,2983.0,Gas
+James Lighthill House,C,4957.0,Electric
+John Dodgson House,C,6427.0,Gas
+Kathleen Lonsdale Building,G,8340.0,Heat Network
+Malet Place UCL Engineering Building,G,9589.0,Heat Network
+Maple House (149 Tottenham Court Road),B,3541.0,Gas
+Medawar Building,F,3183.0,Heat Network
+Medical School Building,G,3695.0,Heat Network
+Medical Sciences And Anatomy,E,12135.0,Heat Network
+North Wing,E,4025.0,Heat Network
+Paul O'Gorman Building,G,9397.0,Heat Network
+Pearson Building,E,4620.0,Heat Network
+Rayne Institute,G,5946.0,Heat Network
+Roberts Building,G,13878.0,Heat Network
+Schafer House,C,8418.0,Gas
+School Of Pharmacy,F,15079.0,Gas
+Wilkins Building,E,12354.0,Heat Network
